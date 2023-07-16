@@ -1,5 +1,12 @@
 # CMOS Analysis using Xschem
 
+![Imgur](https://i.imgur.com/1fYEugt.png)
+
+
+
+![Imgur](https://i.imgur.com/8jG7d2p.png)
+
+
 The analysis is performed on 180nm technology using open source google skywater 180nm pdk
 
 ## Voltage Transfer Characteristic
@@ -33,3 +40,6 @@ Vol = 0.068 volts
 this analysis shows a 20 nanosec time period waveform with 50% duty cycle, rise and fall time of the pulses is 1 nanosec
 
 Through the transient analysis, it can be observed that the power drawn from source is 0.654 microwatts which includes the dynamic, static and short circuit power dissipation.
+
+Fall Time = 34.44 picosec
+Rise Time = 29.55 picosec
