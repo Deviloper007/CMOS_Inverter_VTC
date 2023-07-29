@@ -7,7 +7,7 @@
 ![Imgur](https://i.imgur.com/8jG7d2p.png)
 
 
-The analysis is performed on 180nm technology using open source google skywater 180nm pdk
+The analysis is performed on 180nm technology using open source google skywater 130nm pdk
 
 ## Voltage Transfer Characteristic
 
